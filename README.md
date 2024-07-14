@@ -5,3 +5,4 @@ Version: 1.21
 
 ## Commands:
 /owo
+Shows the 'OwO, what's this?' message.
